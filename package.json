@@ -1,0 +1,17 @@
+{
+  "name": "projectTourTravel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "pug": "^3.0.3"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3"
+  }
+}
